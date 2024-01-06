@@ -5,7 +5,7 @@
 ### O objetivo é descobrir NLP (Natural Language Processing), processamento de Linguagem Natural.
 Vamos nos basear principalmente em Apache OpenNLP e Stanford CoreNLP.
 
->Nota: OpenNLP foi investigado: não tem uma boa documentação boa, nem exemplos práticos, além de ter pouco apoio da comunidade NLP,
+>Nota: OpenNLP foi investigado: não tem uma documentação boa, nem exemplos práticos, além de ter pouco apoio da comunidade NLP,
 >ao contrário do CoreNLP que é amplamente utilizado pela comunidade NLP onde a IBM o utiliza no seu produto Cognos.
 
 NLP significa estruturar um texto em uma lingua natural (ingles, portugues, espanhol, chines, etc) 
