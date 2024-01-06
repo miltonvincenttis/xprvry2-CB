@@ -14,9 +14,9 @@ que é vista como desestruturada.
 Como se estrutura uma linguagem natural?
 
 O NLP utiliza algoritmos para tentar estruturar e entender o texto natural, e assim permitir ao usuário de NLP
-inferir (descobrir) o que há no texto, e como se pode lidar tirar conclusões sobre ele.
+inferir (descobrir) o que há no texto, e como se pode lidar e tirar conclusões sobre o texto.
 
-### Algoritmos utilizados: OpenNLP: Todo algoritmo visa definir probabilidades/frequencias de determinado token em alguma posição de texto.
+### Algoritmos utilizados: OpenNLP: Todo algoritmo visa definir probabilidades/frequencias de determinado token em alguma posição do texto.
 ME: Maximum Entropy 
 NB: Naive Bayes     
 ...
@@ -52,3 +52,7 @@ Alguns frameworks/bibliotecas de NLP (ApacheNLP, Stanford CoreNLP) implementam a
   
 * NER (Name Entity Recognition):     (OpenNLP / CoreNLP)
   * O objetivo do NER é identificar e classificar entidades nomeadas em um texto, ou seja, palavras ou frases que se referem a entidades específicas do mundo real, como pessoas, organizações, locais, datas, valores numéricos, entre outros.
+ 
+>Nota: NLP é diferente de LLM (large language models) no sentido da supervisão humana.
+>LLM digere quantidades de informação em treinamento, sem supervisão.
+>NLP digere quantidades de informação em treinamento e é supervisionado.
