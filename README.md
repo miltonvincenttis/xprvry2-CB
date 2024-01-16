@@ -17,8 +17,8 @@ O NLP utiliza algoritmos para tentar estruturar e entender o texto natural, e as
 inferir (descobrir) o que há no texto, e como poder lidar e tirar conclusões sobre o texto.
 
 ### Algoritmos utilizados no OpenNLP: Todo algoritmo visa definir probabilidades/frequencias de determinado token em alguma posição no texto desestruturado.
-ME: Maximum Entropy 
-NB: Naive Bayes     
+* ME: Maximum Entropy 
+* NB: Naive Bayes     
 ...
 
 Alguns frameworks/bibliotecas de NLP (ApacheNLP, Stanford CoreNLP) implementam as seguintes ferramentas para seu NLP:
