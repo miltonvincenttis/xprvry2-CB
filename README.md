@@ -23,7 +23,7 @@ inferir (descobrir) o que há no texto, e como poder lidar e tirar conclusões s
 
 Alguns frameworks/bibliotecas de NLP (ApacheNLP, Stanford CoreNLP) implementam as seguintes ferramentas para seu NLP:
 
-* DocCat (OpenNLP apenas)            (OpenNLP)
+* DocCat                             (OpenNLP)
   * Categorização de Documentos: Permite o NLP saber que há no texto conteudo que pertence a uma categoria de documento.
   
 * Tokenization:                      (OpenNLP / CoreNLP)  
