@@ -53,6 +53,6 @@ Alguns frameworks/bibliotecas de NLP (ApacheNLP, Stanford CoreNLP) implementam a
 * NER (Name Entity Recognition):     (OpenNLP / CoreNLP)
   * O objetivo do NER é identificar e classificar entidades nomeadas em um texto, ou seja, palavras ou frases que se referem a entidades específicas do mundo real, como pessoas, organizações, locais, datas, valores numéricos, entre outros.
  
->Nota: NLP é diferente de LLM (large language models) no sentido da supervisão humana.
->LLM digere quantidades de informação em treinamento, sem supervisão.
->NLP digere quantidades de informação em treinamento e é supervisionado.
+>Nota: NLP é diferente de LLM (large language models) no sentido do treinamento ser ou não supervisionado.
+>LLM treinamento sem supervisão.
+>NLP treinamento supervisionado.
